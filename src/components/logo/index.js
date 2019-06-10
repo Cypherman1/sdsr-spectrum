@@ -36,7 +36,7 @@ export const Logo = () => {
   return (
     <SvgWrapper>
       <Img src="/img/logo-mark.png" alt="Vanila community logo" />
-      <LogoTxt>community.vanila</LogoTxt>
+      <LogoTxt>Brightics AI Community</LogoTxt>
     </SvgWrapper>
   );
 };
